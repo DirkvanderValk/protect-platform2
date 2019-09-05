@@ -11,5 +11,8 @@
     "grunt-contrib-watch": "^0.6.1",
     "grunt-handlebars-layouts": "0.2.4",
     "grunt-sass": "1.1.0"
+  },
+  "dependencies": {
+    "backgrid": "^0.3.8"
   }
 }
